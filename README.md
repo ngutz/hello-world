@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository, which I'm using to learn with.
+Hi, there! I'm N, and this is my first repository, which I'm using to learn with.
